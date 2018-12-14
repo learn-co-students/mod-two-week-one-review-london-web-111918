@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  temperature: 1.5
+  bio: MyString
+  mood: MyString
+  favorite_color: MyString
+  scariest_creature: MyString
+  has_mermaids: 
+
+two:
+  name: MyString
+  temperature: 1.5
+  bio: MyString
+  mood: MyString
+  favorite_color: MyString
+  scariest_creature: MyString
+  has_mermaids: 
